@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-controller="Home" asp-action="index">
+    <div class="col-lg-12"> enter Qr code string</div>
+    <br />
+    <div class="col-lg-12">
+        <input type="text" name="QRCodeString" id="QRCodeString" class="form-control" />
+    </div>
+    <br />
+    <br />
+    <div class="col-lg-12">
+        <input type="submit" value="Generate QR Code" name="QRCodeString" class="btn btn-primary" />
+    </div>
+    <br />
+    <br />
+</form>
+
+@if(!string.IsNullOrEmpty(ViewBag.Url))
+{
+    <div class="col-lg-12">
+        <img src="@ViewBag.Url"/>
+    </div>
+}

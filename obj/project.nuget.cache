@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBZpkJLgOR8g9RuJaKJ3IT45GHSy8Rx9wlMeTgBAOFS0NKe8CZJh5sapkcwCfQiXURVrRdQbUc5/5miOsLjciQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\QRCodeZxing\\QRCodeZxing\\QRCodeZxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.7\\zxing.net.bindings.windows.compatibility.0.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
